@@ -1,0 +1,23 @@
+#title {
+    background-color: #ff4c68;
+}
+
+#meet-dogs {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.rotateimg30 {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+#features {
+    padding: 7% 15%;
+}
